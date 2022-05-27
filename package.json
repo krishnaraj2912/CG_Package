@@ -1,0 +1,18 @@
+{
+  "name": "ts_to_js",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "gasp": "^0.0.2",
+    "gsap": "^3.10.4",
+    "three": "^0.140.2"
+  }
+}
